@@ -23,7 +23,6 @@ if (num > 100) {
     }
 
             
-console.log("HOLA TARADOS");
 
         
 
