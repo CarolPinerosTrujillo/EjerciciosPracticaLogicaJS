@@ -1,3 +1,5 @@
+//EJERCICIO 1 FIZZ-BUZZ
+
 let num=1
 
 if (num > 100) {
